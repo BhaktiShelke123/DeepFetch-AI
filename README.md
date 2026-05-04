@@ -5,11 +5,11 @@ Developed a high-performance Retrieval-Augmented Generation (RAG) ingestion pipe
 ## 🚀 Getting Started
 
 1. **Clone the repo:**
-   git clone https://github.com/your-username/DeepFetch-AI.git
+   git clone https://github.com/BhaktiShelke123/DeepFetch-AI.git
 
-2. **Install dependencies:**
+3. **Install dependencies:**
    pip install -r requirements.txt
 
-3. **Set up environment variables:**
+4. **Set up environment variables:**
    Create a .env file and add:
    OPENAI_API_KEY=your_actual_key_here
