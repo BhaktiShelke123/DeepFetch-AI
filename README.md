@@ -5,7 +5,7 @@ Developed a high-performance Retrieval-Augmented Generation (RAG) ingestion pipe
 ## 🚀 Getting Started
 
 1. **Clone the repo:**
-   git clone https://github.com/BhaktiShelke123/DeepFetch-AI.git
+   git clone https://github.com/BhaktiShelke123/DeepFetch-AI/
 
 3. **Install dependencies:**
    pip install -r requirements.txt
